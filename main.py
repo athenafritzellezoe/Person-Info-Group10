@@ -1,2 +1,5 @@
 name = input("Name? ")
 print("Hello" + name) 
+age = input("age? ")
+addr = input("city? ")
+print(name + "lives in" + addr)
