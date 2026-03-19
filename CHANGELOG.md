@@ -1,1 +1,1 @@
-### v1.0.0 - [Date] - Added name input. (@athenafritzellezoe)
+### v1.0.0 - [March 19, 2026] - Added name input. (@athenafritzellezoe)
